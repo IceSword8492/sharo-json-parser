@@ -1,0 +1,11 @@
+{
+  "name": "sharo-json-parser",
+  "version": "1.0.0",
+  "description": "json parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./example"
+  },
+  "keywords": [],
+  "author": "sharo.jef"
+}
